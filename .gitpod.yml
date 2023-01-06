@@ -6,7 +6,6 @@ tasks:
 
 vscode:
  extensions:
-   - revaturePro.revature-labs
    - redhat.java
    - vscjava.vscode-java-debug
-   - kyntrack.vscode-java-test-rev
+   - kyntrack.rev-test-run
