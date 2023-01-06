@@ -9,5 +9,4 @@ vscode:
    - revaturePro.revature-labs
    - redhat.java
    - vscjava.vscode-java-debug
-   - vscjava.vscode-java-test
-   - kyntrack.vscode-java-test-revature
+   - kyntrack.vscode-java-test-rev
